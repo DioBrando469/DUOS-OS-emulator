@@ -1,0 +1,1 @@
+Duos is a UNIX system emulator that runs in a terminal application written in C.
