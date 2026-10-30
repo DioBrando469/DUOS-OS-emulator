@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+    <event>
+        <command>ls</command>
+        <user>User</user>
+        <timestamp>2026-10-30 20:02:43</timestamp>
+    </event>
+    <event>
+        <command>cd</command>
+        <user>User</user>
+        <timestamp>2026-10-30 20:02:43</timestamp>
+    </event>
+    <event>
+        <command>download Minecraft pls</command>
+        <user>User</user>
+        <timestamp>2026-10-30 20:02:43</timestamp>
+    </event>
+    <event>
+        <command>exit</command>
+        <user>User</user>
+        <timestamp>2026-10-30 20:02:43</timestamp>
+    </event>

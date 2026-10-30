@@ -1,0 +1,4 @@
+whatever
+duos> 
+.\\log.xml
+.\\start.exe
